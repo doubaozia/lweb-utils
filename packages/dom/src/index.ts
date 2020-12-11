@@ -5,7 +5,7 @@ import loadImg from './loadImg';
 import loadScript from './loadScript';
 import ready from './ready';
 import requestWithoutAjax from './requestWithoutAjax';
-import scrollTo, { raf, enableScroll } from './scrollTo';
+import scrollTo, { enableScroll } from './scrollTo';
 
 export {
   hasClass,
@@ -20,6 +20,5 @@ export {
   ready,
   requestWithoutAjax,
   scrollTo,
-  raf,
   enableScroll,
 };
