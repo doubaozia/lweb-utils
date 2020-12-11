@@ -6,7 +6,9 @@
   "scripts": {
     "build": "father-build",
     "test": "umi-test",
-    "coverage": "umi-test --coverage"
+    "coverage": "umi-test --coverage",
+    "bootstrap": "lerna bootstrap",
+    "publish": "lerna publish"
   },
   "author": "doubaozia",
   "license": "ISC",
