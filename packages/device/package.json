@@ -1,0 +1,14 @@
+{
+  "name": "@lweb-utils/device",
+  "version": "1.0.0",
+  "description": "@lweb-utils/device",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": ["lib", "src"],
+  "keywords": ["lweb-utils"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "doubaozia",
+  "license": "ISC"
+}

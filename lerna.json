@@ -1,0 +1,13 @@
+{
+  "command": {
+    "ignoreChanges": [
+      "**/*.md",
+      "**/*.test.ts",
+      "**/test/**"
+    ]
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "1.0.0"
+}
