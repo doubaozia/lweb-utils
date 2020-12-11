@@ -1,8 +1,4 @@
 {
-  "name": "lweb-utils",
-  "version": "1.0.0",
-  "description": "Common used tool functions for web.",
-  "main": "index.js",
   "scripts": {
     "build": "father-build",
     "test": "umi-test",
@@ -15,6 +11,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "jest": {
     "testEnvironmentOptions": {
       "resources": "usable",
