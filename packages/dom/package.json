@@ -1,6 +1,6 @@
 {
   "name": "@lweb-utils/dom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "@lweb-utils/dom",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,11 +9,20 @@
     "src"
   ],
   "keywords": [
-    "lweb-utils"
+    "lweb-utils",
+    "utils",
+    "dom"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "doubaozia",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doubaozia/lweb-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/doubaozia/lweb-utils/issues"
+  }
 }

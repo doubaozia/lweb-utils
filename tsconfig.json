@@ -16,6 +16,7 @@
     "dist",
     "**/*.spec.ts",
     "packages/**/lib",
+    "packages/**/test",
     "examples",
     "coverage"
   ]
