@@ -3,7 +3,7 @@
 > Url相关工具函数
 
 ```bash
-npm i @lweb-utils/storage --save
+npm i @lweb-utils/url --save
 ```
 
 ## 1. getQueryUrl
